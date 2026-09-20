@@ -1,0 +1,12 @@
+# NetBeans private metadata
+/nbproject/private/
+
+# Java/Ant build outputs
+/build/
+/dist/
+*.class
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
